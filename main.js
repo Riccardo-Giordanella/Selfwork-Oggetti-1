@@ -3,7 +3,7 @@ let human = {
     surname : "Giordanella",
     age : 27,
     saluto : function(){
-        console.log(`Ciao a tutti io sono ${this.name}, ${this.surname}`);
+        console.log(`Ciao a tutti io sono ${this.name} ${this.surname}`);
 
     }
 
